@@ -3,7 +3,7 @@
 
 #### 🔧 Tech Stack:
 
-- **Front-end:**ReactJS, Redux, HTML5, CSS3, JavaScript, Bootsrap
+- **Front-end:** ReactJS, Redux, HTML5, CSS3, JavaScript, Bootsrap
 - **Back-end:** Node.js, Express.js
 - **Database:** MongoDB, postgreSQL
 - **Tools:** Git, GitHub, VS Code
