@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ucefez</h1>
-<h3 align="center">A Passionate Full Stack Developer | Crafting Ideas into Code 🧑‍💻</h3>
+<h1 align="center">Hi 👋🏻, I'm Ucefez</h1>
+<h3 align="center">A Passionate Full Stack Developer | Crafting Ideas into Code 🧑🏻‍💻</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
