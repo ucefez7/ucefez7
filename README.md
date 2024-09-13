@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Crafting Ideas into Code 🧑🏻‍💻</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6fJbnZz3G1V49WBi/giphy.gif" width="700" height="350"/>
+  <img src="https://media.giphy.com/media/3o6fJbnZz3G1V49WBi/giphy.gif" width="600" height="300"/>
 </p>
 
 
