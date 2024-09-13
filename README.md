@@ -1,4 +1,5 @@
-<h1 align="center" class="animated-name">Hi 👋🏻, I'm Ucefez</h1>
+
+ <img src="https://path-to-your-animated-gif.gif" alt="Hi 👋🏻, I'm Ucefez" />
 <h3 align="center">A Passionate Full Stack Developer | Crafting Ideas into Code 🧑🏻‍💻</h3>
 
 <p align="center">
