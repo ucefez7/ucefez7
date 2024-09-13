@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻, I'm Ucefez</h1>
+<h1 align="center" class="animated-name">Hi 👋🏻, I'm Ucefez</h1>
 <h3 align="center">A Passionate Full Stack Developer | Crafting Ideas into Code 🧑🏻‍💻</h3>
 
 <p align="center">
@@ -6,6 +6,22 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ucefez7" alt="ucefez7" />
   </a>
 </p>
+
+<style>
+  .animated-name {
+    animation: fadeIn 2s ease-in-out infinite alternate;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
+
 
 ---
 
