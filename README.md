@@ -7,7 +7,6 @@
   </a>
 </p>
 
-
 ---
 
 ### About Me
@@ -112,3 +111,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucefez7&" alt="GitHub Streak" />
 </p>
+
+<!-- Animation Style -->
+<style>
+  .animated-name {
+    animation: fadeIn 2s ease-in-out infinite alternate;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+</style>
