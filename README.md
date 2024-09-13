@@ -1,7 +1,5 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/animated-ucefez.gif" alt="Hi 👋🏻, I'm Ucefez" />
-</h1>
 
+<h1 align="center" class="animated-name">Hi 👋🏻, I'm Ucefez</h1>
 <h3 align="center">A Passionate Full Stack Developer | Crafting Ideas into Code 🧑🏻‍💻</h3>
 
 <p align="center">
