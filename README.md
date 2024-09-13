@@ -1,6 +1,6 @@
 <!-- GitHub Profile Readme -->
 
-<h1 align="center">Hey there! 👋 I'm Ucefez, a Full Stack Developer 🚀</h1>
+<h1 align="center">Hey there! 👋 I'm Ucefez, a Full Stack Developer</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCPZcSq2V4I1v8k/giphy.gif" width="300">
